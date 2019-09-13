@@ -1,14 +1,19 @@
 p{
 
-	color:white;
+	color:purple;
 }
 body{
 
 	font-size: 1em;
 
-	background-image: url("reading-and-smiling-in-class.jpg");
+	background-image: url("okthistime.jpg");
 	background-repeat: no-repeat;
 	background-size: 1400px 700px
 }
 
+
+em{
+
+	color:black;
+}
 background-image
