@@ -1,6 +1,36 @@
-p{
+/*INDEX STUFF:
+includes h1, button, go2abt, go2Ass 
+*/
 
-	color:purple;
+h1{
+
+	text-align: center;
+}
+
+#go2abt{
+
+
+}
+
+#go2Ass{
+
+	text-align: center;
+}
+
+#row{
+
+	display: inline-block;
+	text-align: center;
+}
+
+
+
+ABOUT ME STUFF:
+includes abt, collab, collab2, and technical skills
+
+#abt{
+
+	color:blue;
 }
 body{
 
@@ -12,8 +42,23 @@ body{
 }
 
 
-em{
+#collab2{
+
+	color:green;
+}
+#collab{
 
 	color:black;
 }
+
+
+strong{
+
+	color:blue;
+}
+#TechnicalSkills{
+
+	color:yellow;
+}
+
 background-image
