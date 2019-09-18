@@ -1,0 +1,42 @@
+h1{
+
+	text-align: center;
+}
+
+#go2abt{
+
+
+}
+
+#go2Ass{
+
+	text-align: center;
+}
+
+#row{
+
+	display: inline-block;
+	text-align: center;
+}
+
+
+li a{
+	display: inline-block;
+
+}
+
+
+li{
+	color:black;
+	text-decoration: none;
+	display: inline-block;
+}
+
+ul{
+	text-decoration: none;
+	display: inline-block;
+}
+
+img{
+	align-self: center;
+}
