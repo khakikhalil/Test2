@@ -5,6 +5,7 @@ h1{
 
 #go2abt{
 
+	
 
 }
 
@@ -17,6 +18,7 @@ h1{
 
 	display: inline-block;
 	text-align: center;
+	
 }
 
 
@@ -35,15 +37,99 @@ li{
 ul{
 	text-decoration: none;
 	display: inline-block;
+
 }
 
 #imgcontainer{
-	position: absolute;
-        width: 100px; /*the image width*/
-        height: 100px; /*the image height*/
-        left: 50%;
-        top: 50%;
-        margin-left: -50px; /*half the image width*/
-        margin-top: -50px; /*half the image height*/
+	width: 600px;
+  padding: 150 0 0 15px;
+  margin: 20px auto 0px auto;
+  text-align: center;
+       
 
 }
+
+/* For about me */
+
+#abt{
+
+	color:blue;
+}
+body{
+
+	font-size: 1em;
+
+	background-color: #1FCCFF;
+	/* background-repeat: repeat;
+	background-size: 1500px 800px;
+	*/
+	margin:0px;
+}
+
+
+#collab2{
+
+	color:green;
+}
+#collab{
+
+	color:black;
+}
+
+
+strong{
+
+	color:blue;
+}
+#TechnicalSkills{
+
+	color:yellow;
+}
+
+#row2{
+	display: inline-block;
+	text-align: center;
+
+}
+#row2 img{
+	padding:100px;
+
+}
+
+#index3{
+
+	display:block;	
+	text-align: center;
+}
+
+#bigsize{
+
+	font-size: 2em;
+	font-style: 
+
+}
+
+#bigsize2{
+
+	font-size: 1.5em;
+	text-align: center;
+}
+
+#divide{
+
+	color: rgb(0,0,0);
+}
+
+#assignment{
+
+	background-color: rgb(20,67,202);
+	color: rgb(255,255,255);
+	text-align: center;
+
+
+
+
+
+
+
+background-image
